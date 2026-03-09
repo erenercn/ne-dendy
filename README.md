@@ -31,7 +31,7 @@ Her dosya tek bir sorumluluğa sahip.
 **Performans**
 InsightCard memo ile sarmalandı. Filtre değişimlerinde sadece gereken kartlar yeniden render ediliyor.
 
-## Eksik Kalanlar (zaman kısıtlaması)
+## Zaman Kısıtlamasından Dolayı Eksik Kalanlar
 
 - TypeScript desteği
 - Çoklu survey karşılaştırma modu
