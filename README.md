@@ -36,6 +36,5 @@ InsightCard memo ile sarmalandı. Filtre değişimlerinde sadece gereken kartlar
 - TypeScript desteği
 - Çoklu survey karşılaştırma modu
 - Dışa aktarma (PDF / Excel export)
-- Unit testler
 - Mobil uyumluluk
 
